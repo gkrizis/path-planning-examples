@@ -1,7 +1,6 @@
 import random
 import math
 import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
 
 class Node:
     def __init__(self, x, y, z):

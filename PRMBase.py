@@ -1,7 +1,7 @@
 import random
 import math
 import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
+
 
 class PRM3D:
     def __init__(self, start, goal, num_nodes, connection_radius, workspace_bounds, obstacles=None):
